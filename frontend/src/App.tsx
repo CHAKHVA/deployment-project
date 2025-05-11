@@ -1,4 +1,4 @@
-import AnswerDisplay from './components/AnswerDisplay/AndwerDisplay';
+import AnswerDisplay from './components/AnswerDisplay/AnswerDisplay';
 import './App.css'
 
 function App() {

@@ -7,7 +7,7 @@ const AnswerDisplay = () => {
     useEffect(() => {
         const fetchLatest = async () => {
             try {
-                const res = await fetch('http://localhost:3001/api/latest-answer');
+                const res = await fetch('http://18.192.67.136:3000/api/latest-answer');
                 const data = await res.json();
                 setAnswer(data.data);
             } catch (err) {
