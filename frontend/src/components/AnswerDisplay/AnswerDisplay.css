@@ -1,0 +1,26 @@
+.card {
+    max-width: 600px;
+    margin: 80px auto;
+    padding: 40px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.title {
+    font-size: 1.8rem;
+    margin-bottom: 24px;
+    color: #333;
+}
+
+.answer-text {
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #4a90e2;
+    background-color: #f0f4ff;
+    padding: 12px 24px;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
