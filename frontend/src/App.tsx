@@ -1,5 +1,5 @@
-import AnswerDisplay from './components/AnswerDisplay/AnswerDisplay';
-import './App.css'
+import AnswerDisplay from "./components/AnswerDisplay/AnswerDisplay";
+import "./App.css";
 
 function App() {
   return (
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
